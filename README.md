@@ -12,7 +12,9 @@ fbxファイルにpngテクスチャを適用して使ってね。サイズは�
 改変・再配布自由。他人の迷惑になることには使わないでね。
 
 0.2 変更点
+
 ・テクスチャ書き直し。ハイライトがきれいに。
+
 ・テクスチャ解像度が1024と大きかったため512に変更
 
 <img src="https://raw.githubusercontent.com/noriben327/VRCJD_badge/master/vrcjd_sample.jpg">
