@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/noriben327/VRCJD_badge/releases/download/0.2/VRCJD_badge-0.2.zip
-">VRCJD_badge-0.2</a>
+">VRCJD_badge-0.2.zip</a>
 
 VRCJD部のバッジ
 
