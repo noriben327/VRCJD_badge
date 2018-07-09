@@ -15,5 +15,5 @@ fbxファイルにpngテクスチャを適用して使ってね。サイズは�
 ・テクスチャ書き直し。ハイライトがきれいに。
 ・テクスチャ解像度が1024と大きかったため512に変更
 
-https://raw.githubusercontent.com/noriben327/VRCJD_badge/master/vrcjd_sample.jpg
+<img src="https://raw.githubusercontent.com/noriben327/VRCJD_badge/master/vrcjd_sample.jpg">
 
