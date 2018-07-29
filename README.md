@@ -21,8 +21,13 @@ fbxファイルにpngテクスチャを適用して使ってね。サイズは�
 <img src="https://raw.githubusercontent.com/noriben327/VRCJD_badge/master/vrcjd_sample.jpg">
 
 VRCJD-club badge
+
 Apply png texture to fbx file and use it. Please change size freely. 120 Polygon.
+
 Modification / redistribution freedom. Do not use it for annoying others.
+
 ■ 0.2 Changes
+
 · Texture rewrite. The highlights are beautiful.
+
 · Texture resolution changed to 512 because it was large as 1024
