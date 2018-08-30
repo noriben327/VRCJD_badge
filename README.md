@@ -1,8 +1,7 @@
 # VRCJD_badge 0.2
 
 
-<a href="https://github.com/noriben327/VRCJD_badge/releases/download/0.2/VRCJD_badge-0.2.zip
-">VRCJD_badge-0.2.zip</a>
+■DL 右上の緑のClone or downloadから。
 
 VRCJD部のバッジ
 
